@@ -11,7 +11,7 @@
 # `set -Eeuo pipefail`. Colour follows NO_COLOR / FORCE_COLOR / TTY.               #
 # -------------------------------------------------------------------------------- #
 
-TRAPPER_VERSION="0.0.0"
+TRAPPER_VERSION="0.1.0"
 
 get_version()
 {
